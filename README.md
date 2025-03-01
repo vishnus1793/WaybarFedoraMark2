@@ -6,7 +6,7 @@
 ```bash
 
 git clone https://github.com/vishnus1793/WaybarFedoraMark2.git
-cd waybar
+cd WaybarFedoraMark2
 chmod +x ./setup.sh
 ./setup.sh
 
