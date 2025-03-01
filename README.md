@@ -20,5 +20,4 @@ OR
 git clone https://github.com/vishnus1793/WaybarFedoraMark2.git && cd waybar && chmod +x ./setup.sh && ./setup.sh
 
 ```
-# WaybarFedoraMark2
-# WaybarFedoraMark2
+
